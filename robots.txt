@@ -1,0 +1,1 @@
+Sitemap: https://dgpond.com/gulp-boilerplate//sitemap.xml
