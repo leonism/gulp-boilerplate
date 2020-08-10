@@ -1,1 +1,1 @@
-Sitemap: https://pedagang.org/gulp-boilerplate/sitemap.xml
+Sitemap: https://gulp-boilerplate.pedagang.org/sitemap.xml
