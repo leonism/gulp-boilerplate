@@ -14,7 +14,7 @@ description: A boilerplate project including full setup for Jekyll, GulpJS, SASS
 # baseurl: '/jekyll-gulp-boilerplate' # the subpath of your site, e.g. /blog
 baseurl: '' # the subpath of your site, e.g. /blog
 # url: 'http://esausilva.github.io' # the base hostname & protocol for your site, e.g. http://example.com or http://[yourusername].github.io
-url: 'https://gulp-boilerplate.pedagang.org' # the base hostname & protocol for your site, e.g. http://example.com or http://[yourusername].github.io
+url: 'https://pedagang.org/gulp-boilerplate' # the base hostname & protocol for your site, e.g. http://example.com or http://[yourusername].github.io
 
 # Build settings
 markdown: kramdown
